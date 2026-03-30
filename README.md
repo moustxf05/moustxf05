@@ -17,7 +17,7 @@
 
 > Data Science student passionate about extracting meaning from data and building tools that make insights accessible.
 
-- 🎓 Studying **Data Science** in Paris, France
+- 🎓 Studying **Data Science** in University Clermont-Auvergne, France
 - 📊 Specialized in **data analysis, visualization & database design**
 - 🚀 Built end-to-end projects: from raw data collection to interactive dashboards
 - 🌱 Currently deepening skills in **machine learning & data engineering**
