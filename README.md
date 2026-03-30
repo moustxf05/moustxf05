@@ -147,7 +147,7 @@
 
 <div align="center">
 
-**Open to internships and data science collaborations**
+**Open to an Alternance and data science collaborations**
 
 [![LinkedIn](https://img.shields.io/badge/Let%27s_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhamed-moustapha-ndiaye-99a3472ba/)
 
