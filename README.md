@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mouhamed%20Moustapha%20Ndiaye&fontSize=36&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Paris%2C%20France&descAlignY=55&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mouhamed%20Moustapha%20Ndiaye&fontSize=36&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%2C%20France&descAlignY=55&descColor=a8b2d8" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Power+BI+%7C+R;Data+Analysis+%26+Visualization;Web+Scraping+%7C+Django+%7C+ETL;Turning+raw+data+into+real+decisions)](https://git.io/typing-svg)
 
